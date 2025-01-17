@@ -21,14 +21,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 
 ## Skills and Tools
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)]
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)]
-![Python](https://img.shields.io/badge/--blue)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)]
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)]
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)]
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<!-- C -->
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<!-- C++ -->
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<!-- Python -->
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<!-- HTML -->
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" />
+<!-- CSS -->
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" />
+<!-- LaTeX -->
+<img align="left" alt="LaTeX" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/latex.svg" />
+<!-- Git -->
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <!-- - **Programming:** C, C++, Python, MATLAB, HTML  
 - **Tools:** Git, LaTeX, CSS
