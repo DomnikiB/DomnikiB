@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-- 🌱 I’m currently learning Web Development.
+- 🌱 I am currently learning Web Development.
+- 👯 I am an excellent team player who enjoys exchanging ideas and collaboratively addressing challenges.
 - 😄 Pronouns: She/Her
 
 ## Skills and Tools
